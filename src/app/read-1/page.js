@@ -27,7 +27,7 @@ function page() {
           <div className="content-rank">
             <div className="image-section-rank">
               <img
-                src="rate-1.jpg"
+                src="file:///C:/work/project/Public/rate-1.jpg"
                 alt="Person working on a laptop with charts and graphs on the screen and papers with charts on the table"
                 width="600"
                 height="400"

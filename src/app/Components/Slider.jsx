@@ -11,34 +11,44 @@ function Slider() {
             <img
               alt="Comprehensive Vein Care Logo"
               height="100"
-              src="a.png"
+              src="file:///C:/work/project/Public/b.png"
               width="150"
             />
             <img
               alt="Springfield Medical Clinic Logo"
               height="100"
-              src="b.png"
+              src="file:///C:/work/project/Public/c.png"
               width="150"
             />
             <img
               alt="1st Step Shoes &amp; Bags Logo"
               height="100"
-              src="c.png"
+              src="file:///C:/work/project/Public/d.png"
               width="150"
             />
             <img alt="TREX Logo" height="100" src="d.png" width="150" />
             <img
               alt="Hussain Textiles Logo"
               height="100"
-              src="f.png"
+              src="file:///C:/work/project/Public/f.png"
               width="150"
             />
-            <img alt="Company 6 Logo" height="100" src="g.jpg" width="150" />
-            <img alt="Company 7 Logo" height="100" src="h.png" width="150" />
+            <img
+              alt="Company 6 Logo"
+              height="100"
+              src="file:///C:/work/project/Public/h.png"
+              width="150"
+            />
+            <img
+              alt="Company 7 Logo"
+              height="100"
+              src="file:///C:/work/project/Public/a.png"
+              width="150"
+            />
             <img
               alt="Company 8 Logo"
               height="100"
-              src="sigma.png"
+              src="file:///C:/work/project/Public/g.jpg"
               width="150"
             />
           </div>
